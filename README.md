@@ -55,4 +55,6 @@ Enjoy!
 
 Now with your upgraded accounts, I hope you enjoy creating amazing things! Feel free to check out my [GitHub](https://github.com/eesazahed) and [Replit](https://replit.com/@eesazahed) to view my projects.
 
-If you'd like to reach out, my email is eszhd1(at)gmail.com
+If you'd like to reach out, my email address is eszhd1(at)gmail.com
+
+
