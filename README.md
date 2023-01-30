@@ -2,7 +2,6 @@
 
 ![coder](https://user-images.githubusercontent.com/97064249/215350412-c05de317-7d62-4110-bee5-c084fbc1a44d.png)
 
-
 ### How to get a free GitHub Pro account
 
 If you are in high school or university and are interested in coding, you should consider signing up for GitHub education. This allows you to use GitHub Pro, as well as having many other benefits. If you do not already have a [GitHub](https://github.com/signup) account, you will need to create one. Sign in with your personal email address (so you can use your account even after your school email address gets deactivated when you graduate).
@@ -55,6 +54,6 @@ Enjoy!
 
 Now with your upgraded accounts, I hope you enjoy creating amazing things! Feel free to check out my [GitHub](https://github.com/eesazahed) and [Replit](https://replit.com/@eesazahed) to view my projects.
 
-If you'd like to reach out, my email address is eszhd1(at)gmail.com
+If you'd like to reach out, my email address is eszhd1 (at) gmail.com
 
 
