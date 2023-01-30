@@ -5,23 +5,20 @@
 
 ### How to get a free GitHub Pro account
 
-If you are in high school or university and are interested in coding, you should consider signing up for GitHub education. This allows you to use GitHub Pro, as well as have many other benefits. If you do not already have a GitHub account, you will need to create one. Sign in with your personal email address (so you can use your account even after your school email address gets deactivated when you graduate).
+If you are in high school or university and are interested in coding, you should consider signing up for GitHub education. This allows you to use GitHub Pro, as well as have many other benefits. If you do not already have a [GitHub](https://github.com/signup) account, you will need to create one. Sign in with your personal email address (so you can use your account even after your school email address gets deactivated when you graduate).
 
 Next, go to settings and click Emails. Here is where you will add your school email to your GitHub account.
 
+![Screenshot 2023-01-30 at 10 55 06](https://user-images.githubusercontent.com/97064249/215526808-7e2aeb8a-c32c-4f33-9ef7-ad0f6b88d287.png)
 
 
-Add your school email address and verify. Once it is verified, go to https://education.github.com/. This will allow you to be eligible for GitHub Pro.
-
-Click Sign in.
-
-
+Add your school email address and verify. Once it is verified, go to https://education.github.com/. This will allow you to be eligible for GitHub Pro. Sign in with your GitHub account.
 
 Then, head to Benefits. Scroll down and click Get student benefits.
 
+![Screenshot 2023-01-30 at 10 55 33](https://user-images.githubusercontent.com/97064249/215526941-b1a1e2fc-bcd9-4edd-bf8e-61a4e1cd82ac.png)
 
-
-Select Student as your academic status. Scroll down and use your school email address. After that, you have to select your school name as your school. Using a few sentences, explain why you are using GitHub.
+Select **Student** as your academic status. Scroll down and use your school email address. After that, you have to select your school name as your school. Using a few sentences, explain why you are using GitHub.
 
 Once you have completed those steps, press continue.
 
@@ -47,4 +44,6 @@ Enjoy!
 
 ### Conclusion
 
-Now with your upgraded accounts, I hope you enjoy creating amazing things! Feel free to check out my GitHub and Replit to view my projects.
+Now with your upgraded accounts, I hope you enjoy creating amazing things! Feel free to check out my [GitHub](https://github.com/eesazahed) and [Replit](https://replit.com/@eesazahed) to view my projects.
+
+If you'd like to reach out, my email is eszhd1(at)gmail.com
