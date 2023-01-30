@@ -5,14 +5,14 @@
 
 ### How to get a free GitHub Pro account
 
-If you are in high school or university and are interested in coding, you should consider signing up for GitHub education. This allows you to use GitHub Pro, as well as have many other benefits. If you do not already have a [GitHub](https://github.com/signup) account, you will need to create one. Sign in with your personal email address (so you can use your account even after your school email address gets deactivated when you graduate).
+If you are in high school or university and are interested in coding, you should consider signing up for GitHub education. This allows you to use GitHub Pro, as well as having many other benefits. If you do not already have a [GitHub](https://github.com/signup) account, you will need to create one. Sign in with your personal email address (so you can use your account even after your school email address gets deactivated when you graduate).
 
 Next, go to settings and click Emails. Here is where you will add your school email to your GitHub account.
 
 ![image1](https://user-images.githubusercontent.com/97064249/215526808-7e2aeb8a-c32c-4f33-9ef7-ad0f6b88d287.png)
 
 
-Add your school email address and verify. Once it is verified, go to https://education.github.com/. This will allow you to be eligible for GitHub Pro. Sign in with your GitHub account.
+Add your school email address and verify it. Once it is verified, go to https://education.github.com/. This will allow you to be eligible for GitHub Pro. Sign in with your GitHub account.
 
 Then, head to Benefits. Scroll down and click Get student benefits.
 
@@ -24,7 +24,7 @@ Once you have completed those steps, press continue.
 
 You’ll need to verify you’re a student at your school. Therefore, upload a screenshot of an email from your school board or another official school document. It’ll take a few days to verify, so you’ll have to wait until then.
 
-After that has been completed, you should see your dashboard look something like this:
+After that has been completed, you should see your dashboard looking something like this:
 
 ![image3](https://user-images.githubusercontent.com/97064249/215528452-d7f4de46-77ac-4df2-8352-f06329fdeb5f.png)
 
