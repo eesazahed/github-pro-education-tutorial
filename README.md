@@ -13,7 +13,7 @@ Next, go to settings and click Emails. Here is where you will add your school em
 
 Add your school email address and verify it. Once it is verified, go to https://education.github.com/. This will allow you to be eligible for GitHub Pro. Sign in with your GitHub account.
 
-Then, head to Benefits. Scroll down and click Get student benefits.
+Then, head to Benefits. Scroll down and click **Get student benefits**.
 
 ![image2](https://user-images.githubusercontent.com/97064249/215526941-b1a1e2fc-bcd9-4edd-bf8e-61a4e1cd82ac.png)
 
