@@ -87,6 +87,19 @@
 	      one year.
 	    </p>
 	    <p>
+	      If you don't know what Replit is, it is a web-based IDE, which allows users to 
+	      create amazing projects (called Repls) that are stored on the cloud. I have found Replit incredibly 
+	      useful for coding with Rust, as it makes installing packages really simple and easy. 
+	      You can also import GitHub repositories directly into Replit, so you can work on your
+	      code from any device, as long as you have internet connection. 
+	    </p>
+	    <p>
+	      Replit is free to sign up, but having the <b>Hacker plan</b> gives you certain benefits
+	      that are extremely useful for development. One notable benefit is having unlimited private Repls. 
+	      Some more advantages are having 10x the account storage, and double the Repl storage. This plan 
+	      starts at $7.00 a month, but luckily for students, there is a way to obtain the plan for free.
+	    </p>
+	    <p>
 	      If you don’t have a Replit account, create one with your personal email
 	      address (so you can use your account even after you school email address
 	      gets deactivated when you graduate)
