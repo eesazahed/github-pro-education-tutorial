@@ -18,7 +18,7 @@
 	      If you are in <b>high school or college/university</b> and are interested in coding, you
 	      should consider signing up for GitHub education. This allows you to use
 	      GitHub Pro, as well as having many other benefits. If you do not already
-	      have a <a href="https://github.com/signup">GitHub</a> account, you will
+	      have a <a rel="noreferrer" target="_blank" href="https://github.com/signup">GitHub</a> account, you will
 	      need to create one. Sign in with your personal email address (so you can
 	      use your account even after your school email address gets deactivated
 	      when you graduate).
@@ -35,7 +35,7 @@
 	    </p>
 	    <p>
 	      Add your school email address and verify it. Once it is verified, go to
-	      <a href="https://education.github.com/">https://education.github.com/</a>.
+	      <a rel="noreferrer" target="_blank" href="https://education.github.com/">https://education.github.com/</a>.
 	      This will allow you to be eligible for GitHub Pro. Sign in with your
 	      GitHub account.
 	    </p>
@@ -97,7 +97,7 @@
 	      Replit is free to sign up, but having the <b>Hacker plan</b> gives you certain benefits
 	      that are extremely useful for development. One notable benefit is having unlimited private Repls. 
 	      Some more advantages are having 10x the account storage, and double the Repl storage. This plan 
-	      starts at $7.00 a month, but luckily for students, there is a way to obtain the plan for free.
+	      starts at $7.00 a month, but luckily for students, there is a way to obtain the plan for free. <a rel="noreferrer" target="_blank" href="https://replit.com/site/github-students">(Source)</a>
 	    </p>
 	    <p>
 	      If you don’t have a Replit account, create one with your personal email
@@ -127,8 +127,8 @@
 	    <p>
 	      Now with your upgraded accounts, I hope you enjoy creating amazing things!
 	      Feel free to check out my
-	      <a href="https://github.com/eesazahed">GitHub</a> and
-	      <a href="https://replit.com/@eesazahed">Replit</a> to view my projects.
+	      <a rel="noreferrer" target="_blank" href="https://github.com/eesazahed" >GitHub</a> and
+	      <a rel="noreferrer" target="_blank" href="https://replit.com/@eesazahed">Replit</a> to view my projects.
 	    </p>
 	    <p>
 	      If you&#39;d like to reach out, my email address is eszhd1 (at) gmail.com
