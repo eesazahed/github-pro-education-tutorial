@@ -89,7 +89,7 @@
 	    <p>
 	      If you don't know what Replit is, it is a web-based IDE, which allows users to 
 	      create amazing projects (called Repls) that are stored on the cloud. I have found Replit incredibly 
-	      useful for coding with Rust, as it makes installing packages really simple and easy. 
+	      useful for coding in Rust, as it makes installing packages and setting up the dev environment really simple and easy. 
 	      You can also import GitHub repositories directly into Replit, so you can work on your
 	      code from any device, as long as you have internet connection. 
 	    </p>
